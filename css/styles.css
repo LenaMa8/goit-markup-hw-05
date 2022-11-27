@@ -567,7 +567,9 @@ border: 1px solid #ECECEC;
   }
   /*FOOTER SVG ICONS*/
   .findUs-container {
-    margin-left: 70px;
+    position: absolute;
+left: 516px;
+margin: -117px;
   }
   .findUs-text {
     font-family: Roboto;
